@@ -4,7 +4,7 @@
 - Name: Sebastian Back
 - Email: sebastian.back@abo.fi
 
-## Implemented Requirements
+## Implemented Requirements:
 
 - 1. Project folder structure
 - 2. Backend using Django (JSON for shop page, HTML for landing page, SQLite DB)
