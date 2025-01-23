@@ -1,0 +1,37 @@
+WebShop/
+├── README.md
+├── backend/
+│   ├── requirements.txt
+│   ├── manage.py
+│   ├── myshop/
+│   │   ├── __init__.py
+│   │   ├── asgi.py
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── wsgi.py
+│   └── shop/
+│       ├── __init__.py
+│       ├── admin.py
+│       ├── apps.py
+│       ├── migrations/
+│       ├── models.py
+│       ├── serializers.py
+│       ├── urls.py
+│       └── views.py
+└── frontend/
+    ├── package.json
+    ├── public/
+    └── src/
+        ├── App.js
+        ├── index.js
+        ├── components/
+        │   ├── LandingPage.js
+        │   ├── ShopPage.js
+        │   ├── LoginPage.js
+        │   ├── SignupPage.js
+        │   ├── AccountPage.js
+        │   ├── MyItemsPage.js
+        │   ├── CartPage.js
+        │   └── ...
+        └── services/
+            └── api.js
